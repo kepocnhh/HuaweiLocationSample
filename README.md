@@ -1,0 +1,2 @@
+# HuaweiLocationSample
+Huawei location sample.
